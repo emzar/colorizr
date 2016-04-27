@@ -12,6 +12,10 @@ class String
       black:      30,
     }
 
+  def self.colors
+    COLORS_CODES.keys
+  end
+
   def self.create_colors
     COLORS_CODES.each do |color, code|
       self.send(:define_method, "#{color}") { "\e[#{code}m#{self}\e[0m" }
