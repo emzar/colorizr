@@ -23,4 +23,8 @@ class String
   end
 
   String.create_colors
+
+  def self.sample_colors
+    colors.each { |color| puts "This is " + "#{color}".send(color) }
+  end
 end
