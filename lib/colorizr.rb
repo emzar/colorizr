@@ -26,5 +26,6 @@ class String
 
   def self.sample_colors
     colors.each { |color| puts "This is " + "#{color}".send(color) }
+    nil
   end
 end
