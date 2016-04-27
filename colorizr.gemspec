@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.summary     = "Colors Everywhere!"
   s.description = "A simple gem to colorize terminal output"
   s.authors     = ["Ivan Mironov"]
-  s.email       = 'ivan.mironov@ugmail.com'
+  s.email       = 'ivan.mironov@gmail.com'
   s.files       = ["lib/colorizr.rb"]
-  s.homepage    = 'http://udacity.com'
+  s.homepage    = 'https://github.com/emzar/colorizr'
   s.license     = 'MIT'
 end
