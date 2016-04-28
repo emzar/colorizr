@@ -1,0 +1,11 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+- it allows me to avoid a lot of dup code
+
+How long did you spend working on this project?
+- 4 hours
+
+What was the most rewarding challenge you conquered?
+- format README it looks good
+
+Where do you still have room to grow?
+- improve my writing docs skills
