@@ -41,3 +41,7 @@ Add the following line at top of your ruby files to use colorizr
 ```ruby
 require 'colorizr'
 ```
+
+## License
+
+The contents of this repository are covered under the [MIT License](LICENSE).
