@@ -32,3 +32,12 @@ puts "Paul".green
 puts "George".blue
 puts "Ringo".yellow
 ```
+## Installation instructions
+To install this gem, just call
+```sh
+gem install colorizr-0.0.1.gem
+```
+Add the following line at top of your ruby files to use colorizr
+```ruby
+require 'colorizr'
+```
